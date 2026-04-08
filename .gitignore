@@ -1,0 +1,31 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Maven
+target/
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Spring Boot
+*.pid
+spring.log
+
+# Environment variables
+.env
